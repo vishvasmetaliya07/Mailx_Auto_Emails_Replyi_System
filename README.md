@@ -5,7 +5,7 @@
 ### Read emails, understand intent, and generate smart replies — powered by an open-source LLM
 
 [![Demo Video](https://img.shields.io/badge/🎥%20Watch-Demo-red?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7436651484332605440/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](#)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/vishvasmetaliya07/Mailx_Auto_Emails_Replyi_System)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
@@ -18,8 +18,6 @@
 **🎓 Final Year BCA Project**
 
 </div>
-
-> ⚠️ Replace the `#` GitHub repo placeholder above and in the links section below with your actual repository URL.
 
 ---
 
@@ -37,9 +35,8 @@ It's built on an **open-source, locally-run LLM (Ollama)**, demonstrating how Ma
 
 | | |
 |---|---|
-| 💻 **Source Code** | `<your GitHub repo link>` |
+| 💻 **Source Code** | [GitHub Repository](https://github.com/vishvasmetaliya07/Mailx_Auto_Emails_Replyi_System) |
 | 🎥 **Demo Video** | [Watch on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7436651484332605440/) |
-| 🌐 **Live App** | `<your deployment link, if any>` |
 
 ---
 
@@ -109,8 +106,8 @@ ai-email-reply-system/
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-link>
-cd ai-email-reply-system
+git clone https://github.com/vishvasmetaliya07/Mailx_Auto_Emails_Replyi_System.git
+cd Mailx_Auto_Emails_Replyi_System
 
 # 2. Create and activate a virtual environment
 python -m venv venv
